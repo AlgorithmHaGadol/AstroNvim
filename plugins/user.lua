@@ -1,4 +1,9 @@
 -- TODO: Test
+-- BUG:
+-- WARNING:
+-- HACK:
+-- TEST:
+-- FIX:
 
 return {
   -- You can also add new plugins here as well:
